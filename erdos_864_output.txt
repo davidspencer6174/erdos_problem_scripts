@@ -1,0 +1,138 @@
+N= 1: size= 1, classes=[1]
+  elapsed: 0.000s
+N= 2: size= 2, classes=[1, 2]
+  elapsed: 0.000s
+N= 3: size= 3, classes=[1, 2, 3]
+  elapsed: 0.001s
+N= 4: size= 3, classes=[1, 2, 3]
+  elapsed: 0.001s
+N= 5: size= 4, classes=[1, 2, 4, 5]
+  elapsed: 0.001s
+N= 6: size= 4, classes=[1, 2, 3, 6]
+  elapsed: 0.001s
+N= 7: size= 5, classes=[1, 2, 4, 6, 7]
+  elapsed: 0.002s
+N= 8: size= 5, classes=[1, 2, 4, 6, 7]
+  elapsed: 0.002s
+N= 9: size= 5, classes=[1, 2, 4, 6, 7]
+  elapsed: 0.002s
+N=10: size= 5, classes=[1, 2, 3, 7, 10]
+  elapsed: 0.002s
+N=11: size= 6, classes=[1, 2, 4, 8, 10, 11]
+  elapsed: 0.003s
+N=12: size= 6, classes=[1, 2, 4, 8, 10, 11]
+  elapsed: 0.003s
+N=13: size= 6, classes=[1, 2, 4, 8, 10, 11]
+  elapsed: 0.004s
+N=14: size= 6, classes=[1, 2, 4, 6, 7, 14]
+  elapsed: 0.006s
+N=15: size= 7, classes=[1, 2, 4, 8, 12, 14, 15]
+  elapsed: 0.007s
+N=16: size= 7, classes=[1, 2, 4, 8, 12, 14, 15]
+  elapsed: 0.010s
+N=17: size= 7, classes=[1, 2, 4, 8, 12, 14, 15]
+  elapsed: 0.014s
+N=18: size= 7, classes=[1, 2, 4, 8, 12, 14, 15]
+  elapsed: 0.020s
+N=19: size= 7, classes=[1, 2, 4, 8, 12, 14, 15]
+  elapsed: 0.032s
+N=20: size= 8, classes=[1, 2, 4, 8, 13, 17, 19, 20]
+  elapsed: 0.044s
+N=21: size= 8, classes=[1, 2, 4, 8, 13, 17, 19, 20]
+  elapsed: 0.060s
+N=22: size= 8, classes=[1, 2, 4, 8, 13, 17, 19, 20]
+  elapsed: 0.087s
+N=23: size= 8, classes=[1, 2, 4, 8, 13, 17, 19, 20]
+  elapsed: 0.130s
+N=24: size= 8, classes=[1, 2, 4, 8, 13, 17, 19, 20]
+  elapsed: 0.190s
+N=25: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 0.248s
+N=26: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 0.337s
+N=27: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 0.460s
+N=28: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 0.639s
+N=29: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 0.902s
+N=30: size= 9, classes=[1, 2, 4, 8, 13, 18, 22, 24, 25]
+  elapsed: 1.264s
+N=31: size=10, classes=[1, 2, 4, 9, 13, 19, 23, 28, 30, 31]
+  elapsed: 1.641s
+N=32: size=10, classes=[1, 2, 4, 9, 13, 19, 23, 28, 30, 31]
+  elapsed: 2.162s
+N=33: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 2.882s
+N=34: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 3.897s
+N=35: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 5.523s
+N=36: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 7.532s
+N=37: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 10.161s
+N=38: size=10, classes=[1, 2, 4, 8, 13, 21, 26, 30, 32, 33]
+  elapsed: 13.778s
+N=39: size=11, classes=[1, 3, 4, 9, 13, 20, 27, 31, 36, 37, 39]
+  elapsed: 17.344s
+N=40: size=11, classes=[1, 3, 4, 9, 13, 20, 27, 31, 36, 37, 39]
+  elapsed: 22.194s
+N=41: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 28.496s
+N=42: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 36.990s
+N=43: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 48.372s
+N=44: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 63.310s
+N=45: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 82.905s
+N=46: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 108.372s
+N=47: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 141.171s
+N=48: size=11, classes=[1, 2, 4, 8, 13, 21, 29, 34, 38, 40, 41]
+  elapsed: 182.936s
+N=49: size=12, classes=[1, 2, 4, 9, 15, 19, 31, 35, 41, 46, 48, 49]
+  elapsed: 224.593s
+N=50: size=12, classes=[1, 2, 4, 9, 13, 19, 32, 38, 42, 47, 49, 50]
+  elapsed: 278.404s
+N=51: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 347.806s
+N=52: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 436.537s
+N=53: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 548.803s
+N=54: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 691.899s
+N=55: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 873.098s
+N=56: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 1103.248s
+N=57: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 1391.175s
+N=58: size=12, classes=[1, 2, 4, 8, 13, 21, 31, 39, 44, 48, 50, 51]
+  elapsed: 1752.612s
+N=59: size=13, classes=[1, 2, 4, 13, 20, 26, 30, 34, 40, 47, 56, 58, 59]
+  elapsed: 2124.482s
+N=60: size=13, classes=[1, 2, 4, 13, 20, 26, 30, 34, 40, 47, 56, 58, 59]
+  elapsed: 2621.324s
+N=61: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 3216.059s
+N=62: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 3944.751s
+N=63: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 4874.044s
+N=64: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 6056.319s
+N=65: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 7476.001s
+N=66: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 9277.867s
+N=67: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 11442.998s
+N=68: size=13, classes=[1, 2, 4, 8, 13, 23, 31, 39, 49, 54, 58, 60, 61]
+  elapsed: 14047.060s
+N=69: size=14, classes=[1, 2, 8, 10, 13, 23, 27, 43, 47, 57, 60, 62, 68, 69]
+  elapsed: 16698.985s
